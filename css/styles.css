@@ -1,4 +1,4 @@
-/*********TAG SELECTIONS*********/
+/*********TAG SELECTOR*********/
 
 body {
 	background-color: #393e46;
@@ -14,22 +14,60 @@ hr {
 	width: 5%;
 }
 
-h4 {
-	color: #4ecca3;
-}
 
-h1, h2 {
-    color: #4ecca3;
-}
-
-/*********CLASS SELECTIONS*********/
+/*********CLASS SELECTOR*********/
 
 .header {
 	background-color: #232931;
 	color: #eeeeee;
 }
 
+.header h1 {
+	color: #d2f5e3;
+}
+
 .profilePic {
 	width: 200px;
 	height: 200px;
 }
+
+.workExperience h2 {
+	color: #d2f5e3;
+}
+
+.workExperience h4 {
+	color: #9ac5b0;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+}
+
+.workExperience p {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.skills h2{
+	color: #d2f5e3;
+}
+
+.education h2{
+	color: #d2f5e3;
+}
+
+.education h4 {
+	color: #9ac5b0;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+}
+
+.education p {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+/**********ID SELECTOR**********/
