@@ -1,7 +1,7 @@
 /*********TAG SELECTOR*********/
 
 body {
-	background-color: #393e46;
+	background-color: #686d76;
 	color: #eeeeee;
 }
 
@@ -14,16 +14,22 @@ hr {
 	width: 5%;
 }
 
+body {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
 
 /*********CLASS SELECTOR*********/
 
 .header {
-	background-color: #232931;
+	background-color: #393e46;
 	color: #eeeeee;
 }
 
 .header h1 {
-	color: #d2f5e3;
+	color: #e8e8e8;
 }
 
 .profilePic {
@@ -32,7 +38,7 @@ hr {
 }
 
 .workExperience h2 {
-	color: #d2f5e3;
+	color: #e8e8e8;
 }
 
 .workExperience h4 {
@@ -50,11 +56,15 @@ hr {
 }
 
 .skills h2{
-	color: #d2f5e3;
+	color: #e8e8e8;
+}
+
+.skills table {
+	color: #9ac5b0;
 }
 
 .education h2{
-	color: #d2f5e3;
+	color: #e8e8e8;
 }
 
 .education h4 {
